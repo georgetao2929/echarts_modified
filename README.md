@@ -7,10 +7,12 @@ modify funnel code
 
 这是Echarts中实现的funnel图的效果：
 ![每一块都为梯形](https://img-blog.csdnimg.cn/20210525164842468.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk1OTgwNw==,size_16,color_FFFFFF,t_70#pic_center)
+
 可以看到，除了最后一个块是三角形，其他的块都是梯形。
 
 ## 目标效果
 ![每一个块都为矩形](https://img-blog.csdnimg.cn/20210525165307497.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk1OTgwNw==,size_16,color_FFFFFF,t_70#pic_center)
+
 我想要得到的效果是每一块都像这样是矩形的。
 
 ## 解决方案
